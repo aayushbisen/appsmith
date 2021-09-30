@@ -55,7 +55,6 @@ import { ReactComponent as SendButton } from "assets/icons/comments/send-button.
 import { ReactComponent as Emoji } from "assets/icons/comments/emoji.svg";
 import { ReactComponent as Pin } from "assets/icons/comments/pin.svg";
 import { ReactComponent as OvalCheck } from "assets/icons/comments/check-oval.svg";
-import { ReactComponent as ContextMenu } from "assets/icons/ads/context-menu.svg";
 import { ReactComponent as Trash } from "assets/icons/comments/trash.svg";
 import { ReactComponent as ReadPin } from "assets/icons/comments/read-pin.svg";
 import { ReactComponent as UnreadPin } from "assets/icons/comments/unread-pin.svg";
