@@ -465,10 +465,6 @@ const Icon = forwardRef(
         returnIcon = <ControlIcon height={24} width={24} />;
         break;
 
-      case "context-menu":
-        returnIcon = <ContextMenu />;
-        break;
-
       case "read-pin":
         returnIcon = <ReadPin />;
         break;
